@@ -4,6 +4,7 @@ import smtplib
 MYEMAIL = "YOUR EMAIL" # replace with your email address
 PASSWORD = 'APP PASSWORD' # replace with your password
 USER_EMAIL = "USER EMAIL" # user email address
+
 # To generate 6-digit number.
 
 def generate_otp():
